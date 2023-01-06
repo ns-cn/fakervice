@@ -76,6 +76,8 @@ github.com/ns-cn/goter v0.0.0-20221229054105-bf55f07cf5ce h1:fGu1JpveKmT8MNdF1hb
 github.com/ns-cn/goter v0.0.0-20221229054105-bf55f07cf5ce/go.mod h1:fDFsTqtJ2cGytfXzDhZPn9ug/PM1ZwJsNEi5zIFNpzc=
 github.com/ns-cn/goter v0.0.0-20230106052021-c6e5cc8023f1 h1:SKz+GWljwLn+IbtgUzfoVIZHMxdJA9IXiEUjNgkBZFY=
 github.com/ns-cn/goter v0.0.0-20230106052021-c6e5cc8023f1/go.mod h1:fDFsTqtJ2cGytfXzDhZPn9ug/PM1ZwJsNEi5zIFNpzc=
+github.com/ns-cn/goter v0.0.0-20230106083253-9f5875617792 h1:cqwi7StLQNesHho7UdX+iIZ3Q2RK4CQgCZC1a6HCHV4=
+github.com/ns-cn/goter v0.0.0-20230106083253-9f5875617792/go.mod h1:fDFsTqtJ2cGytfXzDhZPn9ug/PM1ZwJsNEi5zIFNpzc=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
