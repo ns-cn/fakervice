@@ -12,7 +12,7 @@ const (
 	tcp = ""
 )
 
-func (p Protocol) ToString() string {
+func (p Protocol) String() string {
 	switch p {
 	case TCP:
 		return "TCP"

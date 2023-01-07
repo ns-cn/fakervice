@@ -20,7 +20,7 @@ type proxyPool struct {
 func New(port int, protocol protocol.Protocol, control chan signal.Control) error {
 	inUse, ok := GetInfo(port)
 	if ok && inUse.Status == status.RUNNING {
-		return fmt.Errorf("port %d in use with protocol %s", inUse.Port, inUse.Protocol.ToString())
+		return fmt.Errorf("port %d in use with protocol %v", inUse.Port, inUse.Protocol)
 	}
 	info := &PortInfo{Port: port, Protocol: protocol, Status: status.INIT, Control: control}
 	pool.mapper.Store(port, info)
